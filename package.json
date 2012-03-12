@@ -1,0 +1,19 @@
+{
+  "name": "roman",
+  "description": "convert roman to decimal and back",
+  "version": "1.0",
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/jankeromnes/roman.git"
+  },
+  "author": "Jan Keromnes <janx@linux.com> (http://jan.keromnes.com)",
+  "main": "roman",
+  "directories": {
+    "lib": "."
+  },
+  "engines": {
+    "node": "*"
+  },
+  "dependencies": {
+  }
+}
