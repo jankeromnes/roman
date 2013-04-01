@@ -1,6 +1,6 @@
 // roman.js: convert roman to decimal and back
 
-var D = [1,5,10,50,100,500,1000], R = ['I','D','X','L','C','D','M'];
+var D = [1,5,10,50,100,500,1000], R = ['I','V','X','L','C','D','M'];
 
 exports.decimal = function(rom) {
   var d = 0, i = 0, p = 0, c = 0;
