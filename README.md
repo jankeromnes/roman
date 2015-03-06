@@ -1,5 +1,5 @@
     > var r = require('roman');
     > r.roman(1337)
-    'MCCCXXXDII'
+    'MCCCXXXVII'
     > r.decimal('XLII')
     42
