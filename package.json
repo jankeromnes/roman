@@ -1,18 +1,27 @@
 {
-  "name": "roman",
+  "name": "roman-decimal",
+  "version": "1.0.1",
   "description": "convert roman to decimal and back",
-  "version": "1.0",
+  "keywords": [
+    "roman",
+    "numerals",
+    "decimal",
+    "converter"
+  ],
+  "homepage": "https://github.com/jankeromnes/roman",
+  "bugs": {
+    "url": "https://github.com/jankeromnes/roman/issues"
+  },
+  "license": "CC0-1.0",
+  "author": {
+    "name": "Jan Keromnes",
+    "email": "janx@linux.com",
+    "url": "http://jan.tools"
+  },
+  "main": "roman.js",
   "repository": {
     "type": "git",
-    "url": "http://github.com/jankeromnes/roman.git"
-  },
-  "author": "Jan Keromnes <janx@linux.com> (http://jan.keromnes.com)",
-  "main": "roman",
-  "directories": {
-    "lib": "."
-  },
-  "engines": {
-    "node": "*"
+    "url": "https://github.com/jankeromnes/roman"
   },
   "dependencies": {
   }
